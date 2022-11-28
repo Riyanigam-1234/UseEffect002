@@ -1,6 +1,6 @@
 
 import './App.css';
-import Movie from "./comonents/Movie";
+import Movie from "./components/Movie";
 
 function App() {
  return (
